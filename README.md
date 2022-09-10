@@ -30,4 +30,4 @@ Throughout this process I saved my work several times, utilizing 'git push', and
 -	CSS
 -	VS Code
 
-I hope you enjoyed the refactored code, and learning about the process of modifying it!
+I hope you enjoyed the refactored code, and learning about the process behind it!
